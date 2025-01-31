@@ -1,0 +1,26 @@
+{
+  "name": "fastpanel",
+  "version": "1.0.0",
+  "description": "Fastpanel SDK for fastpanel.direct",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javidvalgix/fastpanel.git"
+  },
+  "keywords": ["fastpanel", "fastpanel.direct", "fastpanel-api", "fastpanel-sdk"],
+  "author": "javidvalgix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javidvalgix/fastpanel/issues"
+  },
+  "homepage": "https://github.com/javidvalgix/fastpanel#readme",
+  "devDependencies": {
+    "tsup": "^8.3.6",
+    "typescript": "^5.7.3"
+  }
+}
