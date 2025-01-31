@@ -1,0 +1,2 @@
+# fastpanel
+Fastpanel API JS
